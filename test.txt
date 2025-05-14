@@ -1,1 +1,1 @@
-Тестовый файл ручной отправки 
+https://rus-teem.github.io/site/js_script/main.js
