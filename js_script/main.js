@@ -1,0 +1,1 @@
+alert("Это мой JavaScript!");
